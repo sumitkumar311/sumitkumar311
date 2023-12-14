@@ -1,6 +1,6 @@
 ![logo](https://media.licdn.com/dms/image/D4D16AQHWXDFQ3YSRNQ/profile-displaybackgroundimage-shrink_350_1400/0/1685281322021?e=1707955200&v=beta&t=r1d99IHB8ooq3oFvO7m7OZq9ejYzFb7Tzk5KIZLNwhI)
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A web developer with a frontend concentration creates the frontend of websites</h3>
 <img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="cpding" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitkumar311&label=Profile%20views&color=0e75b6&style=flat" alt="sumitkumar311" /> </p>
